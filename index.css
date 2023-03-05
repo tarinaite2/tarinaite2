@@ -1,0 +1,306 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Audio samples related to Tacotron, an end-to-end speech synthesis system by Google.</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+    <link rel="shortcut icon" href="images/taco.png">
+  </head>
+  <body>
+    <h1>
+      <img src="images/taco.png"/><img src="images/tron.png"/><br/>
+      Tacotron (/täkōˌträn/): An end-to-end speech synthesis system by Google
+    </h1>
+    <h2>Publications</h2>
+    <article>
+      <header>
+	<span class="paper_date">(March 2017)</span>
+	<span class="paper_title">Tacotron: Towards End-to-End Speech Synthesis</span>
+	<ul>
+	  <li><a href="https://arxiv.org/abs/1703.10135">paper</a></li>
+	  <li><a href="publications/tacotron/index.html">audio samples</a></li>
+	</ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+	<span class="paper_date">(November 2017)</span>
+	<span class="paper_title">Uncovering Latent Style Factors for Expressive Speech Synthesis</span>
+	<ul>
+	  <li><a href="https://arxiv.org/abs/1711.00520">paper</a></li>
+	  <li><a href="publications/uncovering_latent_style_factors_for_expressive_speech_synthesis/index.html">audio samples</a></li>
+	</ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+	<span class="paper_date">(December 2017)</span>
+	<span class="paper_title">Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions</span>
+	<ul>
+	  <li><a href="https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html">blog post</a></li>
+	  <li><a href="https://arxiv.org/abs/1712.05884">paper</a></li>
+	  <li><a href="publications/tacotron2/index.html">audio samples</a></li>
+	</ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+	<span class="paper_date">(March 2018)</span>
+	<span class="paper_title">Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron</span>
+	<ul>
+	  <li><a href="https://research.googleblog.com/2018/03/expressive-speech-synthesis-with.html">blog post</a></li>
+	  <li><a href="https://arxiv.org/abs/1803.09047">paper</a></li>
+	  <li><a href="publications/end_to_end_prosody_transfer/index.html">audio samples</a></li>
+	  <li><a href="https://vimeo.com/287802601">talk</a></li>
+	</ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+	<span class="paper_date">(March 2018)</span>
+	<span class="paper_title">Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis</span>
+        <ul>
+	  <li><a href="https://research.googleblog.com/2018/03/expressive-speech-synthesis-with.html">blog post</a></li>
+	  <li><a href="https://arxiv.org/abs/1803.09017">paper</a></li>
+	  <li><a href="publications/global_style_tokens/index.html">audio samples</a></li>
+	</ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(June 2018)</span>
+        <span class="paper_title">Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis</span>
+        <ul>
+          <li><a href="https://arxiv.org/abs/1806.04558">paper</a></li>
+          <li><a href="publications/speaker_adaptation/index.html">audio samples</a></li>
+        </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(July 2018)</span>
+        <span class="paper_title">Predicting Expressive Speaking Style From Text in End-to-End Speech Synthesis</span>
+        <ul>
+          <li><a href="https://arxiv.org/abs/1808.01410">paper</a></li>
+          <li><a href="publications/text_predicting_global_style_tokens/index.html">audio samples</a></li>
+        </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(August 2018)</span>
+        <span class="paper_title">Semi-Supervised Training for Improving Data Efficiency in End-to-End Speech Synthesis</span>
+        <ul>
+          <li><a href="https://arxiv.org/abs/1808.10128">paper</a></li>
+          <li><a href="publications/semisupervised/index.html">audio samples</a></li>
+        </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(October 2018)</span>
+        <span class="paper_title">Hierarchical Generative Modeling for Controllable Speech Synthesis</span>
+        <ul>
+          <li><a href="https://arxiv.org/abs/1810.07217">paper</a></li>
+          <li><a href="publications/gmvae_controllable_tts/index.html">audio samples</a></li>
+        </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(November 2018)</span>
+        <span class="paper_title">Disentangling Correlated Speaker and Noise for Speech Synthesis via Data Augmentation and Adversarial Factorization</span>
+        <ul>
+          <li><a href="https://openreview.net/pdf?id=Bkg9ZeBB37">paper</a></li>
+          <li><a href="publications/adv_tts/index.html">audio samples</a></li>
+        </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(April 2019)</span>
+        <span class="paper_title">Parrotron: An End-to-End Speech-to-Speech Conversion Model and its Applications to Hearing-Impaired Speech and Speech Separation</span>
+        <ul>
+          <li><a href="https://arxiv.org/abs/1904.04169">paper</a></li>
+          <li><a href="publications/parrotron/index.html">audio samples</a></li>
+        </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(June 2019)</span>
+	    <span class="paper_title">Effective Use of Variational Embedding Capacity in Expressive End-to-End Speech Synthesis</span>
+	    <ul>
+	      <li><a href="https://arxiv.org/abs/1906.03402">paper</a></li>
+	      <li><a href="publications/capacitron/index.html">audio samples</a></li>
+	    </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(July 2019)</span>
+	    <span class="paper_title">Learning to speak fluently in a foreign language: Multilingual speech synthesis and cross-language voice cloning</span>
+	    <ul>
+	      <li><a href="https://arxiv.org/abs/1907.04448">paper</a></li>
+	      <li><a href="publications/multilingual/index.html">audio samples</a></li>
+	    </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(September 2019)</span>
+	    <span class="paper_title">Semi-Supervised Generative Modeling for Controllable Speech Synthesis</span>
+	    <ul>
+              <li><a href="https://arxiv.org/abs/1910.01709">paper</a></li>
+	      <li><a href="publications/semisupervised_generative_modeling_for_controllable_speech_synthesis/index.html">audio samples</a></li>
+	    </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(October 2019)</span>
+	    <span class="paper_title">Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesis</span>
+	    <ul>
+              <li><a href="https://arxiv.org/abs/1910.10288">paper</a></li>
+	      <li><a href="publications/location_relative_attention/index.html">audio samples</a></li>
+	    </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(February 2020)</span>
+	<span class="paper_title">Fully-hierarchical fine-grained prosody modeling for interpretable speech synthesis</span>
+	    <ul>
+        <li><a href="https://arxiv.org/abs/2002.03785">paper</a></li>
+	      <li><a href="publications/hierarchical_prosody/index.html">audio samples</a></li>
+	    </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(February 2020)</span>
+	<span class="paper_title">Generating diverse and natural text-to-speech samples using a quantized fine-grained VAE and auto-regressive prosody prior</span>
+	    <ul>
+        <li><a href="https://arxiv.org/abs/2002.03788">paper</a></li>
+	      <li><a href="publications/prosody_prior/index.html">audio samples</a></li>
+	    </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(October 2020)</span>
+        <span class="paper_title">Non-Attentive Tacotron: Robust and Controllable Neural TTS Synthesis Including Unsupervised Duration Modeling</span>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2010.04301">paper</a></li>
+          <li><a href="publications/nat/index.html">audio samples</a></li>
+        </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(October 2020)</span>
+        <span class="paper_title">Parallel Tacotron: Non-Autoregressive and Controllable TTS</span>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2010.11439">paper</a></li>
+          <li><a href="publications/parallel_tacotron/index.html">audio samples</a></li>
+        </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(November 2020)</span>
+        <span class="paper_title">Wave-Tacotron: Spectrogram-free end-to-end text-to-speech synthesis</span>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2011.03568">paper</a></li>
+          <li><a href="publications/wave-tacotron/index.html">audio samples</a></li>
+	  <li><a href="publications/wave-tacotron/wavetaco-slides.pdf">slides</a></li>
+	  <li><a href="publications/wave-tacotron/wavetaco-poster.pdf">poster</a></li>
+        </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(March 2021)</span>
+        <span class="paper_title">PnG BERT: Augmented BERT on Phonemes and Graphemes for Neural TTS</span>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2103.15060">paper</a></li>
+          <li><a href="publications/png_bert/index.html">audio samples</a></li>
+        </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(March 2021)</span>
+        <span class="paper_title">Parallel Tacotron 2: A Non-Autoregressive Neural TTS Model with Differentiable Duration Modeling</span>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2103.14574">paper</a></li>
+          <li><a href="publications/parallel_tacotron_2/index.html">audio samples</a></li>
+        </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(November 2021)</span>
+        <span class="paper_title">Speaker Generation</span>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2111.05095">paper</a></li>
+          <li><a href="publications/speaker_generation/index.html">audio samples</a></li>
+        </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(March 2022)</span>
+        <span class="paper_title">Real Time Spectrogram Inversion on Mobile Phone</span>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2203.00756">paper</a></li>
+          <li><a href="publications/specinvert/index.html">audio samples</a></li>
+        </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(October 2022)</span>
+        <span class="paper_title">Virtuoso: Massive Multilingual Speech-Text Joint Semi-Supervised Learning for Text-To-Speech</span>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2210.15447">paper</a></li>
+          <li><a href="publications/virtuoso/index.html">audio samples</a></li>
+        </ul>
+      </header>
+    </article>
+
+    <article>
+      <header>
+        <span class="paper_date">(October 2022)</span>
+        <span class="paper_title">Residual Adapters for Few-Shot Text-to-Speech Speaker Adaptation</span>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2210.15868">paper</a></li>
+          <li><a href="publications/residual_adapters/index.html">audio samples</a></li>
+        </ul>
+      </header>
+    </article>
+  </body>
+</html>
